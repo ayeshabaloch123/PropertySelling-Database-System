@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DacOrigin xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <PackageProperties>
+    <Version>3.0.0.0</Version>
+    <ContainsExportedData>true</ContainsExportedData>
+    <StreamVersions>
+      <Version StreamName="Data">2.0.0.0</Version>
+      <Version StreamName="DeploymentContributors">1.0.0.0</Version>
+    </StreamVersions>
+  </PackageProperties>
+  <Operation>
+    <Identity>19c56ec8-9caf-4571-a335-733603cd52da</Identity>
+    <Start>2022-03-22T12:47:16.5260297+05:00</Start>
+    <End>0001-01-01T00:00:00.0000000</End>
+    <ProductName>Microsoft.SqlServer.Dac, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</ProductName>
+    <ProductVersion>12.0.1268.0</ProductVersion>
+    <ProductSchema>http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02</ProductSchema>
+  </Operation>
+  <Server>
+    <ServerVersion>Microsoft SQL Server 2014 - 12.0.2000.8 (X64) 
+	Feb 20 2014 20:04:26 
+	Copyright (c) Microsoft Corporation
+	Express Edition (64-bit) on Windows NT 6.3 &lt;X64&gt; (Build 22000: )
+</ServerVersion>
+    <ObjectCounts>
+      <DatabaseOptions>1</DatabaseOptions>
+      <PrimaryKeyConstraint>7</PrimaryKeyConstraint>
+      <SimpleColumn>50</SimpleColumn>
+      <Table>7</Table>
+    </ObjectCounts>
+  </Server>
+  <ExportStatistics>
+    <SourceDatabaseSize>3288</SourceDatabaseSize>
+    <TableRowCountTotalTag>0</TableRowCountTotalTag>
+  </ExportStatistics>
+  <Checksums>
+    <Checksum Uri="/model.xml">B401A90BDE08E4971490FEE0ED14DF701B775500A34A62DDDB1211EE7E47D957</Checksum>
+  </Checksums>
+</DacOrigin>
